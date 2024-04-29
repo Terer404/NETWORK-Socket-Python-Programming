@@ -1,7 +1,6 @@
 from os import path
 import socket
-
-
+#testing new commit
 def run_client():
     # create a socket object
     client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
